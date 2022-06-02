@@ -1,4 +1,4 @@
-# Airbnb_price_prediction
+# Airbnb price prediction streamlit app
 
 https://share.streamlit.io/olaaumari/airbnb_price_prediction/main/main.py
 
